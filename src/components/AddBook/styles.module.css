@@ -1,0 +1,26 @@
+.form {
+  position: relative;
+  bottom: 0px;
+  left: 0;
+}
+.field {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+.label {
+  text-align: right;
+  padding: 6px;
+}
+.btn {
+  color: #fff;
+  font-size: 2em;
+  background: #ad1457;
+  border: 0;
+  padding: 0 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}

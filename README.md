@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Connect with your backend endpoint.
+
+    currently it is connected to localhost/3000/graphql using APOLLO in src/APP.JS you can change this endpoint to fit your needs. but if youre only testing you could leave as is and run the server on this endpoint
+
+## why i made this project
+
+    this is a tutorial made by The Net Ninja, i am currently learning grapwh-ql and will eventually modify this to make my own graphql app.
